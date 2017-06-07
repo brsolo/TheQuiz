@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">The Quiz</string>
+
+    <!--Questions and answers-->
+
+    <string name="Q1">1) What is 2 + 2?</string>
+    <string name="Q1A1">a) 1</string>
+    <string name="Q1A2">b) 4</string>
+    <string name="Q1A3">c) 13</string>
+
+    <string name="Q2">2) In what country did Akbar Hashemi Rafsanjani die?</string>
+    <string name="Q2A1">a) Syria</string>
+    <string name="Q2A2">b) Iran</string>
+    <string name="Q2A3">c) Turkey</string>
+
+    <string name="Q3">3) Who is this man?</string>
+    <string name="Q3A1">a) Theodore Roosevelt</string>
+    <string name="Q3A2">b) W. E. B. Du Bois</string>
+    <string name="Q3A3">c) Booker T. Washington</string>
+
+    <string name="Q4">4) What is the capital of East Timor?</string>
+    <string name="Q4A">Dili</string>
+
+    <string name="Q5">5) Which of these are ways of saying hello in Spanish?</string>
+    <string name="Q5A1">a) hola</string>
+    <string name="Q5A2">b) hi</string>
+    <string name="Q5A3">c) consuegro</string>
+
+</resources>
